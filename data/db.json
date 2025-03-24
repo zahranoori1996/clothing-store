@@ -1,0 +1,21 @@
+{
+    "products":{
+        "status": true,
+        "data": [
+            {
+                "id": 1,
+                "title": "",
+                "type": "",
+                "price": 2000,
+                "dicount": 15,
+                "category":"",
+                "isMale": true,
+                "sale": false,
+                "rating": 4,
+                "urlImage": "",
+                "count": 11,
+                "description":""
+            }
+        ]
+    }
+}
