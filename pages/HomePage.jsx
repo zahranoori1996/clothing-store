@@ -3,6 +3,7 @@ import SocialMedia from "../src/components/SocialMedia";
 import SearchSection from "../src/components/SearchSection";
 import Menu from "../src/components/Menu";
 import Banner from "../src/components/Banner";
+import PopularCategory from "../src/components/PopularCategory";
 
 export default function HomePage() {
   return (
@@ -11,6 +12,7 @@ export default function HomePage() {
       <SearchSection />
       <Menu />
       <Banner />
+      <PopularCategory/>
     </div>
   );
 }
